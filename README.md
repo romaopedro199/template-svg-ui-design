@@ -1,6 +1,6 @@
-# Template SVG para UI Design
+# Template SVG for UI Design
 
-Template grid com 12 colunas com as medidas baseadas no meu notebook levando em consideração os elementos do browser (scrollbar, barra de navegação e abas) e a barra de ferramentas no sistema operacional (no caso, o Elementary OS).
+Template grid with 12 columns with measurements based on my laptop taking into account the elements of the browser (scrollbar, navigation bar and tabs) and the toolbar in the operating system (in this case, Elementary OS).
 
-##### Para artigos, tutoriais e projetos
-Acesse: https://romaopedro.com/
+##### Articles, tutorials and projects
+https://romaopedro.com/
